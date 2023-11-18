@@ -1,0 +1,23 @@
+// Codeforces Runda 799 DIV 4. A(Marathon)
+#include <iostream>
+using namespace std;
+int main()
+{
+    iostream::sync_with_stdio(false);
+    int t = 0;
+    cin >> t;
+    for(int i = 0; i < t; i++)
+    {
+        int a;
+        cin >> a;
+        int brojac = 0;
+        for(int j = 0; j < 3; j++)
+        {
+            int broj = 0;
+            cin >> broj;
+            if(broj > a)
+                brojac++;
+        }
+        cout << brojac << '\n';
+    }
+}
