@@ -1,2 +1,2 @@
 # Ozbiljna-prica
-OVDJE POCINJE PRICA GLAVNOG KARAKTERA BISKETA
+Ovdje je pocetak najznacajnije karijere u programerskom svijetu
